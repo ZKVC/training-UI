@@ -1,0 +1,12 @@
+body {
+    font-family: monospace;
+}
+
+h1, h2 {
+    color: #900;
+}
+
+div.topMenu, div.topMenu h2 {
+    background-color: #900;
+    color: #fff;
+}
